@@ -8,5 +8,6 @@ public class wdasdaw {
 
     public static void main(String[] args) {
         System.out.println("彭佳威是个大傻逼");
+        System.out.println("厚礼蟹");
     }
 }
